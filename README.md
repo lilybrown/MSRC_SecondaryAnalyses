@@ -20,4 +20,4 @@ This clinical tool will not be intended to replace clinical judgment, but to sup
 
 Under this clinical tool, important links to services will be offered.  These will include links to free tools for suicide risk assessment, safety planning, and suicide crisis lines.  Information will also be provided about the recommendation that if an individual is at all worried about his/her ability to stay safe, call 9-1-1 or go to the nearest emergency room.
 
-Importantly, this website will be maintained, with permission from MSRC, and will be freely accessible for use by active duty military personnel and the broader community.
+Importantly, this website will be maintained and updated based on new research, with permission from MSRC, and will be freely accessible for use by active duty military personnel and the broader community.
