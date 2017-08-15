@@ -1,19 +1,6 @@
-# MSRC_SecondaryAnalyses_Beta
+# MSRC SecondaryAnalyses
+Beta
 This is a beta page demonstrating plans for secondary analyses through the MSRC.  This webpage is just an example of the work that is intended to be completed by Drs. Lily Brown, Daniel Taylor, and Joshua Wiley.  Completion of this website will be dependent on permission from the MSRC.  This website is being provided to demonstrate the potential utility of the project entitled "PTSD as a Moderator of the Relationship between Insomnia, Nightmares, and Suicidal Behavior."
-
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-1
-2
-3
-4
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
 
 # First....
 We will describe information on the clinical measures most associated with suicidal ideation (SI) and behavior (SB). The number of included items will be dependent on model performance, but we aim to include no more than 10 items based on their relative accuracy. This section will include item-level descript, psychometric properties of the measure from which individual items were selected, and relevant citations.
