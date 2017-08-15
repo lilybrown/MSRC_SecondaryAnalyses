@@ -1,4 +1,4 @@
-# MSRC SecondaryAnalyses
+# MSRC Secondary Analyses
 This is a beta page demonstrating plans for secondary analyses through the MSRC.  This webpage is just an example of the work that is intended to be completed by Drs. Lily Brown, Daniel Taylor, and Joshua Wiley.  Completion of this website will be dependent on permission from the MSRC.  This website is being provided to demonstrate the potential utility of the project entitled "PTSD as a Moderator of the Relationship between Insomnia, Nightmares, and Suicidal Behavior."
 
 # First....
