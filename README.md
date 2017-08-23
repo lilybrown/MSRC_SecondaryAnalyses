@@ -10,7 +10,7 @@ We will describe all items that were included in the machine learning model.  Th
 # Finally...
 Most importantly, a clinical tool will be provided, modeled from a tool previously created by Co-I Joshua Wiley, Ph.D. While this tool was generated from another content area, the models from which the tool was conceived and the clinical utility of the tool will be similar.
 
-# For an example of this clinical tool, please see: http://jwiley.github.io/score-project/
+# For an example of this clinical tool, please see: <a href="http://jwiley.github.io/score-project/">http://jwiley.github.io/score-project/</a>
 
 Consistent with the Score Project tool, the MSRC tool will allow for the recording of variables of clinical relevance and predictive validity.  For instance, there may be an entry for score on an item from the Interpersonal Needs Questionnaire, or for a demographic characteristic.  
 
